@@ -1,0 +1,7 @@
+Que aprendi con php,
+A crear y llamar operaciones en php, tambien a utilizar las instrucciones if-else y hacer uso dentro de una funcion como hacer uso en conjunto con los ciclos iterativos que serian "for", "while" y "do-while".
+Tambien la conexion PHP a una base de datos, creando un formulario y las validaciones de este mismo para compararlos con los ya existentes en una base de datos.
+Junto con esto, aprendi sobre los protocolos de transferencia y su comportamiento como los metodos "POST" y "GET".
+Por otra parte a compartir el codigo de un archivo en otro archivo con la funcion include.
+Manipulacion de los registros en la base de datos tanto como modificar,mostrar y eliminar del formulario HTML.
+Y por ultimo la creacion de sesiones y encriptar contrasenas, entre otras funciones.
